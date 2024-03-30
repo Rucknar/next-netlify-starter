@@ -1,4 +1,4 @@
-# Privacy Policy - Next.js Starter!
+# Privacy Policy - Vintaga Ltd
 
 ## Last updated: 30th March 2024
 
